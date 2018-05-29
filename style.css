@@ -143,7 +143,7 @@ html {
 .hero {
      height: 80vh;
     grid-column: 1 / -1;
-    background-image: url(img/london-eye-945497_1280.jpg);
+    background-image: url(london-eye-945497_1280.jpg);
     background-size: cover;
     background-position:center; 
     position: relative;
